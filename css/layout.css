@@ -340,10 +340,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
-.typescript {
-  	width: 30%;
-  	-moz-animation: typescript 2s ease;
-  	-webkit-animation: typescript 2s ease;
+.scrapy {
+  	width: 40%;
+  	-moz-animation: scrapy 2s ease;
+  	-webkit-animation: scrapy 2s ease;
 }
 .vuejs {
   	width: 60%;
@@ -383,7 +383,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes typescript {
+@-moz-keyframes scrapy {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
@@ -420,7 +420,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes typescript {
+@-webkit-keyframes scrapy {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
