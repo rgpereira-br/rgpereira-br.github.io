@@ -340,13 +340,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
-.scrapy {
-  	width: 40%;
+.aws {
+  	width: 50%;
   	-moz-animation: scrapy 2s ease;
   	-webkit-animation: scrapy 2s ease;
 }
-.vuejs {
-  	width: 60%;
+.react {
+  	width: 70%;
   	-moz-animation: vuejs 2s ease;
   	-webkit-animation: vuejs 2s ease;
 }
@@ -355,20 +355,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
 }
-.docker {
-   width: 70%;
-   -moz-animation: docker 2s ease;
-   -webkit-animation: docker 2s ease;
-}
 .devops {
    width: 60%;
    -moz-animation: devops 2s ease;
    -webkit-animation: devops 2s ease;
-}
-.cicd {
-   width: 50%;
-   -moz-animation: cicd 2s ease;
-   -webkit-animation: cicd 2s ease;
 }
 
 @-moz-keyframes python {
