@@ -1,4 +1,4 @@
-# ricardoduarte.github.io
-Página pessoal com currículo de Ricardo Duarte.
+# rgpereira-br.github.io
+Página pessoal com currículo de Rafael Pereira.
 
 
