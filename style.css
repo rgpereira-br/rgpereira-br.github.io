@@ -97,6 +97,18 @@ body {
     color: var(--primary-color);
 }
 
+.lang-switch {
+    border: 1px solid var(--border-color);
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.75rem !important;
+    text-transform: uppercase;
+}
+
+.lang-switch:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
 .nav-cta {
     background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
     color: #fff !important;
@@ -134,6 +146,7 @@ body {
     margin-bottom: 1.5rem;
     background: linear-gradient(135deg, #fff 60%, var(--secondary-color));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -298,6 +311,7 @@ body {
     margin-bottom: 1.5rem;
     background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
